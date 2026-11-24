@@ -1,0 +1,2 @@
+"study","n_included","n_DCM","n_control","n_platform_control_probes_removed","n_features_tested","n_mapped_unique_symbol_probes","n_ambiguous_probes","n_unmapped_probes","n_significant_probes","n_significant_probes_abs_logFC_ge_1","n_unique_symbols_selected","n_significant_symbols","annotation_source","annotation_version","limma_version"
+"GSE5406",102,86,16,68,22215,20210,836,1169,3333,64,12650,2600,"Bioconductor hgu133a.db","3.13.0","3.66.0"
