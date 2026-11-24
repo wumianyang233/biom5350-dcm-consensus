@@ -18,7 +18,9 @@ Find genes consistently differentially expressed in DCM compared with non-failin
 
 \- Use R, with tidyverse for data handling and plots where possible.
 
-\- Add short comments explaining each code step.
+\- Use tidyverse verbs such as `filter()`, `left_join()`/`inner_join()`, `arrange()`, and `distinct()` for table filtering, joining, sorting, and deduplication whenever practical; use base R when it is clearer or required by the analysis.
+
+\- Add short comments explaining why each step is needed, especially for filtering, transformations, model settings, and output generation.
 
 \- Use limma for differential expression and adjusted p &lt; 0.05.
 
